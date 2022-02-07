@@ -46,7 +46,7 @@ body {
 }
 .k1_pp .k1_name h2 {
   font-size: 30px;
-  font-family: cursive;
+  font-family: 'Righteous', cursive;
   text-align: center;
   color: aliceblue;
   filter: drop-shadow(3px 0px 2px #000);
@@ -59,7 +59,7 @@ body {
   margin: 10px 0;
   font-size: 17px;
   /* font-family: sans-serif; */
-  font-family: cursive;
+  font-family: 'Concert One', cursive;
   color: rgb(255, 251, 0);
   text-align: center;
   filter: drop-shadow(0px 0px 2px rgb(0, 0, 0));
